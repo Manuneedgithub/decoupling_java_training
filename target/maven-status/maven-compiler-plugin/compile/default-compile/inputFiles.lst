@@ -1,0 +1,12 @@
+/Users/manu/Desktop/java/decoupling_java_training/src/main/java/fr/lernejo/logger/ContextualLogger.java
+/Users/manu/Desktop/java/decoupling_java_training/src/main/java/fr/lernejo/guessgame/Simulation.java
+/Users/manu/Desktop/java/decoupling_java_training/src/main/java/fr/lernejo/logger/LoggerFactory.java
+/Users/manu/Desktop/java/decoupling_java_training/src/main/java/fr/lernejo/guessgame/HumanPlayer.java
+/Users/manu/Desktop/java/decoupling_java_training/src/main/java/fr/lernejo/logger/ConsoleLogger.java
+/Users/manu/Desktop/java/decoupling_java_training/src/main/java/fr/lernejo/logger/FilteredLogger.java
+/Users/manu/Desktop/java/decoupling_java_training/src/main/java/fr/lernejo/guessgame/Player.java
+/Users/manu/Desktop/java/decoupling_java_training/src/main/java/fr/lernejo/guessgame/Launcher.java
+/Users/manu/Desktop/java/decoupling_java_training/src/main/java/fr/lernejo/guessgame/ComputerPlayer.java
+/Users/manu/Desktop/java/decoupling_java_training/src/main/java/fr/lernejo/logger/Logger.java
+/Users/manu/Desktop/java/decoupling_java_training/src/main/java/fr/lernejo/logger/CompositeLogger.java
+/Users/manu/Desktop/java/decoupling_java_training/src/main/java/fr/lernejo/logger/FileLogger.java
